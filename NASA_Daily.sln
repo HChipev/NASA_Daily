@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA_Daily.Api", "NASA_Daily.Api\NASA_Daily.Api.csproj", "{F641B498-E8B8-467A-98DB-219A185B9665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA_Daily.Application", "NASA_Daily.Application\NASA_Daily.Application.csproj", "{A27E1465-FD43-41FF-AEAB-6F275632DB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA_Daily.Domain", "NASA_Daily.Domain\NASA_Daily.Domain.csproj", "{AB6A9DCB-0CBA-4B52-8E74-F8B5992782A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F641B498-E8B8-467A-98DB-219A185B9665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F641B498-E8B8-467A-98DB-219A185B9665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F641B498-E8B8-467A-98DB-219A185B9665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F641B498-E8B8-467A-98DB-219A185B9665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27E1465-FD43-41FF-AEAB-6F275632DB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27E1465-FD43-41FF-AEAB-6F275632DB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27E1465-FD43-41FF-AEAB-6F275632DB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27E1465-FD43-41FF-AEAB-6F275632DB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6A9DCB-0CBA-4B52-8E74-F8B5992782A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6A9DCB-0CBA-4B52-8E74-F8B5992782A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6A9DCB-0CBA-4B52-8E74-F8B5992782A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6A9DCB-0CBA-4B52-8E74-F8B5992782A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
